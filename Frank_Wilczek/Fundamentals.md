@@ -4,9 +4,9 @@ Author: Frank Wilczek (2021)
 
 Also from Frank:
 
-_- A Beautiful Question_
-_- The Lightness of Being_
-_- Fantastic Realities_
+_- A Beautiful Question_<br>
+_- The Lightness of Being_<br>
+_- Fantastic Realities_<br>
 _- Longing for the Harmonies_
 
 # Preface: Born Again
