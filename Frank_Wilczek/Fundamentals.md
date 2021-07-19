@@ -17,6 +17,15 @@ Babies are like the scientists, making experiments and drawing conclusions.
 
 TMS - Transcranial Magnetic Stimulation (经颅磁刺激)
 
+To those who are born again, in the way of science, the world comes to seem fresh, lucid, and wonderfully abundant. They come to live out William Blake's vision:
+
+```
+To see a World in a Grain of Sand
+And a Heaven in a Wild Flower
+Hold Infinity in the palm of your hand
+And Eternity in an hour
+```
+
 # Introduction
 
 # I. WHAT THERE IS
