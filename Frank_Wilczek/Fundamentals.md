@@ -45,9 +45,9 @@ Sample: assumptions used for designing and builing Global Positioning System (GP
 - It uses the tools of classical mechanics to calculate the position of the satellites it deploys.
 - It makes corrections for the effect, predicted by general relativity, that the rate of clocks depends slightly on their elevation about Earth. Clocks run slower near Earth's surface, where its gravitational field is stronger.
 
-
-
 ## 2. There's Plenty of Time
+
+
 
 ## 3. There Are Very Few Ingredients
 
