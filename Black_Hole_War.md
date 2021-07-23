@@ -4,6 +4,8 @@
 
 By Leonard Susskind (2008)
 
+![cover image](img/The_Black_Hole_War_-_bookcover.jpg)
+
 _What is is that breathes fire into the equations and makes a universe for them to describe? -- Stephen Hawking_
 
 # Introduction
