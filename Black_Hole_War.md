@@ -46,6 +46,10 @@ A _googol_ is $10^100$, and a _googolplex_ is $10^{googol}$.
 
 _History will be kind to me, for I intend to write it. -- Winston Churchill_
 
+![penrose diagram](img/p22-penrose.jpeg)
+
+One the blackboard was a _Penrose Diagram_, a type of diagram representing a black hole. The horizon (the edge of the black hole) was drawn as a dashed line, and the singularity at the center of the black hole was an ominous-looking jagged line. Lines pointing inward through the horizon represented bits of information falling past the horizon into the singularity. There were no lines coming back out. According to Stephen, those bits were irretrievably (无可挽回地) lost. To make matters worse, Stephen had proved that black holes eventually evaporate and disappear, leaving no trace of what has fallen in.
+
 
 
 ## 01. The First Shot
