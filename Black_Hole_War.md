@@ -4,7 +4,7 @@
 
 By Leonard Susskind (2008)
 
-![cover image](img/The_Black_Hole_War_-_bookcover.jpg)
+![cover image](img/The_Black_Hole_War_-_bookcover.jpg) ![author](img/LeonardSusskindStanford2009.jpg)
 
 _What is is that breathes fire into the equations and makes a universe for them to describe? -- Stephen Hawking_
 
@@ -22,7 +22,31 @@ The truth, of course, is that all conplex life-forms have built-in, instinctive 
 
 Today it is widely believed that gravity and Quantum Mechanics will play equally important roles in determining the laws of __elementary particles (基本粒子)__. ... The new wiring, whatever it is, will be called _quantum gravity_, but even without knowing its detailed form, we can safely say that the new paradigm will involve very unfamiliar concepts of space and tie.
 
+...Quantum Gravity deals with objects a hundred billion billion times smaller than a proton. We have never directly experienced such small things, and we probably never will, but human ingenuity has allowed us to deduce their existence, and surprisingly, the portals into that world are objects of huge mass and size: _black holes_.
+
+... The Holographic Prinicle (全息原理) is one of the most unintutive abstractions in all of physics. ...
+
+### some big and small numbers
+
+The Earth's population is roughly 7 billion = $7 * 10^9$
+
+Number of protons and neutrons in Earth (approximately) $= 5 * 10^{51}$
+
+The total number of electrons in the portion of the universe that we can see with the most powerful telescopes is about $10^{80}$. The total number of protons is about $10^{90}$.
+
+The size of an atom is about one tem-billion of a meter:
+
+$Size \quad of \quad atom = 0.0000000001 \quad meters = 10^{-10}$.
+
+The mass of an electron is about $9 * 10^{-31}$.
+
+A _googol_ is $10^100$, and a _googolplex_ is $10^{googol}$.
+
 # Part 1 The Gathering Storm
+
+_History will be kind to me, for I intend to write it. -- Winston Churchill_
+
+
 
 ## 01. The First Shot
 
