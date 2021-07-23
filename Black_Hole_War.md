@@ -1,5 +1,7 @@
 # Black Hole War
 
+[toc]
+
 By Leonard Susskind (2008)
 
 _What is is that breathes fire into the equations and makes a universe for them to describe? -- Stephen Hawking_
