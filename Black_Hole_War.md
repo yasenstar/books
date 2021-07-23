@@ -10,7 +10,9 @@ _What is is that breathes fire into the equations and makes a universe for them 
 
 # Introduction
 
-_There was so much to grok, so little to grok from. -- Robert A. Heinlein_
+_There was so much to grok, so little to grok from. -- Robert A. Heinlein (Stranger in a Strange Land)_
+
+![Stranger in a Strange Land](img/Stranger_in_a_Strange_Land-bookcover.jpeg)
 
 The truth, of course, is that all conplex life-forms have built-in, instinctive physics concepts that have been hardwired into their nervous system by evolution. Without this preprogrammed physics software, survival would be impossible. Mutation and natural selection have made us all physicists, even animals. In humans the large size of the brain has allowed there instincts to evolve into concepts that we carry at the conscious level.
 
