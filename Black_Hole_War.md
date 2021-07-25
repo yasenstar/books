@@ -58,7 +58,9 @@ One the blackboard was a _Penrose Diagram_, a type of diagram representing a bla
 
 _There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy. -- William Shakespeare, Hamlet_
 
+The escape velocity from the surface of the Earth is a mighty 25,000 miles per hour.
 
+Shrinking a star (without losing any mass) increases the escape velocity.
 
 ## 03. Not Your Grandfather's Geometry
 
