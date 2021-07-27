@@ -58,9 +58,11 @@ One the blackboard was a _Penrose Diagram_, a type of diagram representing a bla
 
 _There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy. -- William Shakespeare, Hamlet_
 
-
-
 ## 03. Not Your Grandfather's Geometry
+
+..._time delation_(时间膨胀): rapidly moving clocks run slowly compared to slow clocks or clocks at rest.
+
+
 
 ## 04. "Einstein, Don't Tell God Want to Do"
 
