@@ -58,11 +58,16 @@ One the blackboard was a _Penrose Diagram_, a type of diagram representing a bla
 
 _There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy. -- William Shakespeare, Hamlet_
 
+<<<<<<< HEAD
+## 03. Not Your Grandfather's Geometry
+
+..._time delation_(时间膨胀): rapidly moving clocks run slowly compared to slow clocks or clocks at rest.
+=======
 The escape velocity from the surface of the Earth is a mighty 25,000 miles per hour.
+>>>>>>> e1ceaa327caf607cea8ab28209d67b419f71668d
 
 Shrinking a star (without losing any mass) increases the escape velocity.
 
-## 03. Not Your Grandfather's Geometry
 
 ## 04. "Einstein, Don't Tell God Want to Do"
 
