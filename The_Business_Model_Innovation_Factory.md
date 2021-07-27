@@ -10,8 +10,9 @@ Author: Saul Kaplan (2012)
 
 # I What You Have Always Done Isn't Working Anymore
 
-# II Connect, Inspire, Transform: 15 Business Model Innovtion Principles
+# II Connect, Inspire, Transform: 15 Business Model Innovation Principles
 
 # III Creating a Business Model Innovation Factory
 
 # IV Business Models Aren't Just for Business
+
