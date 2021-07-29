@@ -12,6 +12,17 @@ Author: Moe Abdula, Ingo Averdunk, Roland Barcia, Kyle Brown, Ndu Emuchay (2018)
 
 # 2. Framework Overview
 
+Outside-in approach with establishing 3 simple themes:
+
+```mermaid
+graph LR
+A(Think and Envision the Transformation)-->B(Balance the Transformation)-->C(Thrive on New Foundations)
+```
+
+- ___Think and Envision the Transformation to establish the strategic intent of the transformation.___ This step is the most important one. As we stated earlier, the cloud is a means to an end. First, you must determine what goals the business wants to achieve before your begin any other planning.
+- ___Balance the Transformation to decide what works best for the enterprise.___ Just as Rome wasn't built in a day, an enterprise doesn't fully move onto the cloud in a day, or even in a year. There is always a balance that must be struck in understanding what aspects of the digital transformation you can move toward quickly and what parts will take more time.
+- ___Thrive on New Foundations to realize the strategic outcomes at scale and over a sustained period (typically, three to five years).___ We want to help build organizations that are successful over the long run, which means going well beyond moving a single project to the cloud or transforming a single development team. To be successful over that time frame, you must establish organizational structures, policies, and procedures that are resilient and effective in the face of a rapidly changing technology landscape.
+
 # 3. Strategy
 
 _A vision without a strategy remains an illusion. -- Lee Bolman_
@@ -112,6 +123,19 @@ When deciding how to implement cloud, you can use any of four policies:
 - __Cloud Enabled__: this is a policy that dictates that you may use the cloud if you can get a better outcome than doing things the non-cloud way.
 - __Cloud Connected__: This relates to situations in which you would never consider the use of cloud services. System with specific regulatory and compliance issues flat-out disqualify for cloud, for example, but you still need them to participate in a cloud ecosystem.
 - __Cloud Only__: This relates to situations in which you use only cloud and never build it in-house. These are often non-critical workloads where you are taking advantage of the best of breed industry solutions or specialized services hosted in the cloud.
+
+Comparing between two approaches:
+
+|           Characteristic           |          Radical / Disruptive          |      Evolutionary / Incremental      |
+| :--------------------------------: | :------------------------------------: | :----------------------------------: |
+|          Speed of Change           |                 Faster                 |                Slower                |
+|       Organizational Change        |                  Much                  |                 Less                 |
+|      Experimentation Approach      |               Fail Fast                |              Controlled              |
+|          Cost of Failure           |                 Cheap                  |              Expensive               |
+| Adaptability to Technology Changes |                  More                  |                 Less                 |
+|        Technology Approach         |             New / Refactor             |           New / Integrate            |
+|          Policy Emphasis           | Cloud First / Only Connected / Enabled | Cloud Enabled / First Connect / Only |
+|       Cloud Technology Stack       |             Hybrid Diverse             |           Hybrid Targeted            |
 
 # 4. Culture and Organization
 
