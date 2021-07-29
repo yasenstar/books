@@ -4,6 +4,8 @@ Proven strategies for transforming your organization with the cloud
 
 Author: Moe Abdula, Ingo Averdunk, Roland Barcia, Kyle Brown, Ndu Emuchay (2018)
 
+Borrowed from Pointe-Claire Library, July 2021
+
 [toc]
 
 # Introduction
@@ -61,10 +63,10 @@ Key considerations should a Cloud Strategy address?
 
 ### 1. Define business objectives and constraints
 
-- Competitiveness: the ability to respond to a market opportunity with unique value, often leverage design, technoogy, and operational excellence as differentiators.
+- Competitiveness: the ability to respond to a market opportunity with unique value, often leverage design, technology, and operational excellence as differentiators.
 - Agility: the ability to pivot, proactively react, and respond to changing business realities in a rapid, sustained fashion. All part of the organization (business, IT, and supporting functions) must be able to react at (or at nearly) the same pace for the organization to respond in an agile way.
 - Speed: the ability to innovate and change faster than your current pace and show results quickly. Speed presumes the ability to do so through more efficient execution across the value stream.
-- Cost saving: the ability to take advantage of the collective resource pol, which ultimately means saving money. It requires that you create efficiencies across the value stream without shifting the burden from one side to another.
+- Cost saving: the ability to take advantage of the collective resource pool, which ultimately means saving money. It requires that you create efficiencies across the value stream without shifting the burden from one side to another.
 - Focus: the ability to pay attention to your core business to the exclusion of extraneous activities.
 
 Identify the Constraints: constraints can range from commonly understood restrictions on privacy, locality, security, or data compliance or can be as subtle as existing agreements and timelines.
