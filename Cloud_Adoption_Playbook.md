@@ -25,6 +25,51 @@ A(Think and Envision the Transformation)-->B(Balance the Transformation)-->C(Thr
 - ___Balance the Transformation to decide what works best for the enterprise.___ Just as Rome wasn't built in a day, an enterprise doesn't fully move onto the cloud in a day, or even in a year. There is always a balance that must be struck in understanding what aspects of the digital transformation you can move toward quickly and what parts will take more time.
 - ___Thrive on New Foundations to realize the strategic outcomes at scale and over a sustained period (typically, three to five years).___ We want to help build organizations that are successful over the long run, which means going well beyond moving a single project to the cloud or transforming a single development team. To be successful over that time frame, you must establish organizational structures, policies, and procedures that are resilient and effective in the face of a rapidly changing technology landscape.
 
+## Key Dimensions of Cloud Adoption
+
+- Culture and Organization
+- Architecture and Technology
+- Security and Compliance
+- Emerging Innovation Spaces
+- Methodology
+- Service Management and Operations
+- Governance
+
+## Steps in the Adoption Journey
+
+```mermaid
+graph LR
+A(Understand Strategic Intent) --> B(Identify Strategic Opportunities)
+B --> C(Idente and Prioritize) --> D(Pilot and Prove)
+D --> E(Scale) --> F(Define Strategic Outcomes)
+```
+
+1. Understand Strategic Intent: Understand and evaluate the strategic intent of the business. Prepare for your cloud adoption journey by evaluating technology and understanding key adoption practices and the effects of organizational change.
+2. Identify Strategic Opportunities: Identify opportunities to accelerate digital transformation by acknowledging maturity levels across capabilities.
+3. Ideate and Prioritize: Evaluate and prioritize ideas and recommendations; leverage attributes such as feasibility, impact, and cost of prioritize transformation activities.
+4. Pilot and Prove: Test, prove, and pilot the recommendations; identify measurable outcomes, prove capability and validate with end users and against business-driven measurements.
+5. Scale: Scale with validating with end users; take iterative steps to validate approaches, confirm technical decisions, and begin adoption to cloud model at scale.
+6. Define Strategic Outcomes: Capitalize on proven successes, learn from feedback, and achieve benefits as you transform business processes.
+
+## The Key Actions of the Framework
+
+1. Involve the Right People
+   1) Secure high-level executive sponsorship for the transformation
+   2) Identify and engage key line-of-business, technology, and other key stakeholders
+   3) Develop and execute a stakeholder communication plan for active engagement
+2. Achieve Business and Technology Alignment
+3. Take a Holistic Approach across Dimensions
+   1. Composability: means that in developing your game plan, you can assemble the elements of the framework that are of high priority to your organization. If the methodology dimension needs shoring up to achieve your goals, for example, you can focus on that dimension while understanding that you need all the other dimensions to complete the whole picture.
+   2. Flexibility: means that in these important dimensions, you only need to go to the level of depth required in your context to make decisions that move your plan forward
+   3. Agility: means being ready to course-adjust to align with the needs of the business, learning from experimentation, building on the successes of the cloud adoption program, and evaluating and redirecting as needed.
+4. Assume an Outside-in, Client-Centered Approach
+5. Open the Aperture to New Possibilities
+6. Show Progress and Quick Wins
+7. Collaborate Actively
+8. Balance Sustained and Disruptive Innovation
+9. Establish Success Criteria
+10. Account for a Multi-cloud Hybrid Model
+
 # 3. Strategy
 
 _A vision without a strategy remains an illusion. -- Lee Bolman_
@@ -141,7 +186,57 @@ Comparing between two approaches:
 
 # 4. Culture and Organization
 
+## What Do We Really Mean by "Culture"?
+
+An _Organizational Culture_ is the combination of the shared values, beliefs, and social norms in an organization, resulting in behaviors, practices, and customs that the members of the organization follow.
+
+An organizational culture provides the reason why a company embraces or rejects different practices.
+
+## Culture Elements make Cloud Adoption Easier or Harder
+
+- Willingness to Embrace Change
+- Decision-Make Style
+- Attitude toward Risk
+- View of Failure
+
 # 5. Architecture and Technology
+
+## List of deliverables Cloud Adoption absolutely required
+
+- Use Case Diagrams
+- System Context Diagrams
+- Component Diagrams
+- Class and Object Diagrams (even though Node was the programming language)
+- Sequence Diagrams
+- Deployment Diagrams
+
+## Role of Enterprise Architects in Cloud Adoption
+
+As Enterprise Architects empower developers and site reliability engineers to make more decisions during project execution, they can focus more on defining strategy for repeatable success.
+
+### Workload Assessment
+
+The first driver for assessing a workload is always the business requirement. Once it is determined it makes sense from a business perspective, we can assess the technical challenges.
+
+A good starting point to quickly assess a potential workload's general affinity to cloud computing is through answering high-level qualitative questions across a range of criteria.
+
+This type of analysis can explore the following:
+
+- How self-contained the workload is
+- What the workload's scalability requirements are
+- How standardized the underlying IT infrastructure is
+- Whether the workload is available as an application or business process on the cloud
+- How substantial the benefit of rapid application deployment for this workload is
+- Whether the workload requires strong controls to meeting compliance or regulatory requirements
+- What the data transfer requirements for the workload are
+
+Typically, the more connections that are discovered or required, the less suitable the application is for cloud migration. In other words, the cost of migrating to cloud computing may outweigh the benefit. In this case, you might rewrite the application or decide to retire it.
+
+### Reference Architecture
+
+#### Architect Roles
+
+#### Components of Reference Architecture
 
 # 6. Security and Compliance
 
