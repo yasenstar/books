@@ -241,13 +241,35 @@ A(Preserve, Standardize and Automate Subset of Existing Applications, Target: 20
 
 This above approach has several key challenges:
 
-- Complex cultural transformation
+- Complex cultural transformation limiting the scope and velocity of movement to cloud-native development and management
+- Lack of integrated solutions and tools to build new cloud-native applications while integrating and evolving existing applications
+- Operational challenges in integrating, managing, and securing cloud and on-premises applications and data
 
 ### Reference Architecture
 
+What should the real goal of an architect be? It should be nothing more than __building artifacts that allow the team to successfully implement user stories__.
+
+We must draw some distinctions between the __user stories__ that a product owner naturally creates and other __user stories__ that are just as important. Product owners tend to focus on functional aspects, such as what a system does. An architect, however, should think about nonfunctional aspects: measurable aspects such as page-response time and aspects such as maintainability or manageability, which are harder to measure. Understanding formaulating,and capturing these requirements as user stories are important responsibilities of an application architect.
+
+Sam Newman, in his book _Building Microservices_, writes, "_Architects need to shift their thinking away from creating the perfect end product, and instead focus on helping create a framework in which the right systems can emergeand continue to grow as we learn more._"
+
 #### Architect Roles
 
+- Application Architect: 
+  - Think about the boundaries (specifically, functional boundaries and measurable nonfunctional boundaries such as performance) of the sytem being built.
+  - They build artifacts that a team needs to implement user stories within those boundaries.
+  - These artifacts can be language selection, framework selection, tool choices, code examples, and so on.
+  - An application architect should be a skilled developer and can even serve as the lead developer on smaller projects.
+- Infrastructure/Cloud Architect
+  - Thinks about the critical nonfunctional aspects of infrastructure, management, and administration and about what kind of artifacts the site reliability enginnering (SRE) team needs to do its job.
+  - Cloud technology does not eliminateinfrastructure challenges; the architect's skill set must evolve to include skills such as virtualization, integration, networking, security, containers, and storage.
+  - These architects also build artifacts for the SRE team to consume, such as event management tools and example code, and logging management tools and example code.
+
+An Enterprise Architect needs to have skills in development and operations beyond concepts. An _Enterprise Architect_ is a decision-maker who has expertise in either development or infrastructure and who can view the big picture. That role is absorbed into one of the two roles above.
+
 #### Components of Reference Architecture
+
+A Reference Architecture should consist of repeatable patterns that solve problems that developers and administrators encounter.
 
 # 6. Security and Compliance
 
