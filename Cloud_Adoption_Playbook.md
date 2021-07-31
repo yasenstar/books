@@ -288,7 +288,17 @@ From security perspective, try to challenge below assupmtions:
 
 - Assumption #1: You can control access, security, and confidentiality all the way down to the physical hardware
 - Assumption #2: Everything is contained within your network
-- 
+- Assumption #3: Your team is responsible for everything
+  Some of the general standards your must insist on are things like SOC 1, 2, and 3 for ensuring proper controls on your data, ISO 31000 for ensuring a standardized risk-control process is in place, and ISO27018 for ensuring proper controls on personally identifiable data.
+- Assumption #4: All your data must be stored locally
+- Assumption #5: Your developers need to be security experts
+
+## How Is Cloud Adoption Affected by Compliance Issues?
+
+__Audit__ and __Compliance__ controls are increasingly critical for both cloud providers and cloud consumers:
+
+- _Auditors and Risk Officers_ need to validate implemented controls against an organization's security policy, industry standards, and risk policies, and report deviations when they occur.
+- _Compliance_ is defined by regulations (such as HIPPA and PCI). Your organization may also add requirements on top fo these regulations, certifications, and frameworks.
 
 # 7. Emerging Innovation Spaces
 
@@ -354,3 +364,25 @@ Surrounding by the circle: THINK -> CODE -> DELIVER -> RUN -> MANAGE -> LEARN ->
 # 9. Service Management and Operations
 
 # 10. Governance
+
+## Cloud Challenges
+
+- Regulatory Requirements
+- Sourcing and Standardization Issues
+- Threats to Security and Reputation
+
+## Aspects of a Governance Model
+
+- Enables you to identify, manage, and mitigate risks.
+- Helps you ensure regulatory compliance.
+- Helps you drive toward standardized solutions and solution patterns in a concerted way. (_Solution Patterns_ are generalized soutions developed for one purpose and applied to other scenarios.)
+- Promotes consistent cloud adoption throughout your organization.
+- Drives synergy through sharing and reusing processes that work, captured as best practices.
+
+# Conclusion
+
+_"Flying by the seat of the pants must have been a great experience for the magnificent men in the flying machines of days gone by, but no one would think of taking that risk with the lives of 500 passengers on a modern aircraft. The business managers of a modern enterprise should not have to take that risk either. We must develop standard cloud metrics and ROI models, so that they can have instruments to measure success."
+-- Dr. Chris Harding, director for interoperability and SOA at The Open Group_
+
+Source: [The IBM Cloud Adoption Garage](https://www.ibm.com/cloud/garage/adoption)
+
