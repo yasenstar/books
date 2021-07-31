@@ -271,7 +271,24 @@ An Enterprise Architect needs to have skills in development and operations beyon
 
 A Reference Architecture should consist of repeatable patterns that solve problems that developers and administrators encounter.
 
+A modern reference architecture should be built as follows:
+
+1. __Define a Clear set of Architectural Styles.__ Define and build examples within clear domains of areas (such as microservices and web development) that the team will work on.
+   Sample: Microservices, IoT, API, Analytics, Blockchain, Social, Commerce, Cognitive, Digital Process Automation, JEE on Cloud, Mobile (Backend), Private Cloud
+2. __Define a Clear set of Nonfunctional Architectural Aspects.__ These aspects are exemples that ensure the completeness of a functional domain.
+   Sample: Design and Method, DevOps, Deployment, Data and Data Management, Integration, Security and Compliance, HA/DR, Backup, Service Management and Operations, Performance, Infrastructure Delivery (IaaS/PaaS/Private)
+3. __Convey your Meaning by using only Simple, Minimal Pictures.__ Perhaps use only one picture with simple icon to communicate application flow.
+4. __Provide Example Implementation Artifacts in the Language of Implementers.__ These artifacts can be GitHub pages of example code for developers, script artifacts for administrators, and so on.
+
 # 6. Security and Compliance
+
+## Will My People, Processes, Tools and Approaches Change?
+
+From security perspective, try to challenge below assupmtions:
+
+- Assumption #1: You can control access, security, and confidentiality all the way down to the physical hardware
+- Assumption #2: Everything is contained within your network
+- 
 
 # 7. Emerging Innovation Spaces
 
