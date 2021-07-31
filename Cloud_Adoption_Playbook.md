@@ -232,6 +232,17 @@ This type of analysis can explore the following:
 
 Typically, the more connections that are discovered or required, the less suitable the application is for cloud migration. In other words, the cost of migrating to cloud computing may outweigh the benefit. In this case, you might rewrite the application or decide to retire it.
 
+Workload migration strategies:
+
+```mermaid
+graph TD
+A(Preserve, Standardize and Automate Subset of Existing Applications, Target: 20-30%, Full Automation) --> B(Modernize and Cloud Enable Majority of Infrastructure and Application, Target: 70-80%) --> C(Cloud-First Approach to New Applications and Processes, Target: All New Applications)
+```
+
+This above approach has several key challenges:
+
+- Complex cultural transformation
+
 ### Reference Architecture
 
 #### Architect Roles
