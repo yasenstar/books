@@ -8,9 +8,9 @@ First borrow: July 2021
 
 [toc]
 
-# Foreward
+# Foreword
 
-..."enterprise IT" used to stand for a set of systems that transacted and recorded business operations -- what we call "systems of record." These were designed around departmental processes, organized around databases, enabled by online transaction processing, and understood through business intelligence reporting and analystics.
+..."enterprise IT" used to stand for a set of systems that transacted and recorded business operations -- what we call "systems of record." These were designed around departmental processes, organized around databases, enabled by online transaction processing, and understood through business intelligence reporting and analytics.
 
 Questions from IT professionals that feeling they're ignored:
 
@@ -41,9 +41,21 @@ _Sometimes I get discouraged<br>Sometimes I feel so down<br>Sometime I get so wo
 
 ...I'm think of what Tolstoy said about how happy families are all alike, but every unhappy family is unhappy in its own way. No two IT departments break in exactly the same place.
 
-
-
 ## 01 What's Wrong with IT?
+
+Common Excuses for IT Status Quo:
+
+| Theme and / or Excuse       | Telltale Signs                                               | Actual Quote from an IT Executive                            |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Lack of Leadership          | - The CEO doesn't establish clear measures for IT executives.<br />- Key decision makers ignore IT or fail to engage<br />- IT executives are not involved in business planning<br />- Charismatic or visibility-focused CEOs may not view technology as newsworth. | "He keeps saying 'just keep doing what you're doing.' But I'm getting bad performance reviews, and I've been disinvited to the board meetings. I didn't do anything wrong. The question is, Am I doing anything _right_?" |
+| Lack of Strategy            | - The CEO or board of directors doesn't clearly communicate corporate direction.<br />- Key initiative owners don't involve IT in planning or budgeting.<br />- There's a general failure to link technology to corporate goals. | "The only way I can figure out where the company is going is by reading our annual report." |
+| The need for Modernization  | '- Aging systems require inordinate time and resources to maintain.<br />- Confusion about emerging technologies results in inertia.<br />- Legacy systems have become part of the cultural norm. | "They keep talking about using IT or first-mover advantage. But I'm up to my eyeballs trying to replace our 30-year-old mainframe and our 20-year-old customer information file. There's no time for anything new." |
+| Lack of Budget or Headcount |                                                              |                                                              |
+|                             |                                                              |                                                              |
+|                             |                                                              |                                                              |
+|                             |                                                              |                                                              |
+
+
 
 ## 02 The IT Leader's Identity Crisis
 
