@@ -43,19 +43,24 @@ _Sometimes I get discouraged<br>Sometimes I feel so down<br>Sometime I get so wo
 
 ## 01 What's Wrong with IT?
 
-Common Excuses for IT Status Quo:
+### Common Excuses for IT Status Quo
 
-| Theme and / or Excuse       | Telltale Signs                                               | Actual Quote from an IT Executive                            |
-| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Lack of Leadership          | - The CEO doesn't establish clear measures for IT executives.<br />- Key decision makers ignore IT or fail to engage<br />- IT executives are not involved in business planning<br />- Charismatic or visibility-focused CEOs may not view technology as newsworth. | "He keeps saying 'just keep doing what you're doing.' But I'm getting bad performance reviews, and I've been disinvited to the board meetings. I didn't do anything wrong. The question is, Am I doing anything _right_?" |
-| Lack of Strategy            | - The CEO or board of directors doesn't clearly communicate corporate direction.<br />- Key initiative owners don't involve IT in planning or budgeting.<br />- There's a general failure to link technology to corporate goals. | "The only way I can figure out where the company is going is by reading our annual report." |
-| The need for Modernization  | '- Aging systems require inordinate time and resources to maintain.<br />- Confusion about emerging technologies results in inertia.<br />- Legacy systems have become part of the cultural norm. | "They keep talking about using IT or first-mover advantage. But I'm up to my eyeballs trying to replace our 30-year-old mainframe and our 20-year-old customer information file. There's no time for anything new." |
-| Lack of Budget or Headcount |                                                              |                                                              |
-|                             |                                                              |                                                              |
-|                             |                                                              |                                                              |
-|                             |                                                              |                                                              |
+| Theme and / or Excuse            | Telltale Signs                                               | Actual Quote from an IT Executive                            |
+| -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Lack of Leadership               | - The CEO doesn't establish clear measures for IT executives.<br />- Key decision makers ignore IT or fail to engage<br />- IT executives are not involved in business planning<br />- Charismatic or visibility-focused CEOs may not view technology as newsworth. | "He keeps saying 'just keep doing what you're doing.' But I'm getting bad performance reviews, and I've been disinvited to the board meetings. I didn't do anything wrong. The question is, Am I doing anything _right_?" |
+| Lack of Strategy                 | - The CEO or board of directors doesn't clearly communicate corporate direction.<br />- Key initiative owners don't involve IT in planning or budgeting.<br />- There's a general failure to link technology to corporate goals. | "The only way I can figure out where the company is going is by reading our annual report." |
+| The need for Modernization       | '- Aging systems require inordinate time and resources to maintain.<br />- Confusion about emerging technologies results in inertia.<br />- Legacy systems have become part of the cultural norm. | "They keep talking about using IT or first-mover advantage. But I'm up to my eyeballs trying to replace our 30-year-old mainframe and our 20-year-old customer information file. There's no time for anything new." |
+| Lack of Budget or Headcount      | '- IT budgets get incrementally smaller as lines of business launch their own projects.<br />- New job openings linger due to low salaries or poor company reputation.<br />- Repeated funding request are rejected in favor for non-IT spending. | "The CEO and board keep telling me that IT is a differentiator. But I've had open job reqs for three director-level positions I can't fill because the pay's so low. I have to personally attend design meetings!" |
+| Pressure to Preserve the Base    | '- Classic revenue sources are protected at the expense of new product ideas.<br />- Fear exists that innovation will lead to cannibalization.<br />- There is unwillingness to sunset outdated or obsolete products.<br />- The increasing threat of disruptive competitors is being ignored. | "Sales for our bestselling products are down. We need to redirect resources to increasing those revenues. It's never the right time to explore new products or services -- or to formalize innovation." |
+| Style Differences                | '- IT leaders cite personality differences with corporate leadership as a barrier to engagement.<br />- IT's culture doesn't reflect that of the corporation at large.<br />- Visionary CIOs have difficulty refocusing their staffs toward innovation. | "We can't stand her. She likes to hear herself talk in meetings, and she doesn't listen. She doesn't accept suggestions, and she is unavailable for one-on-one discussions. So I just keep quiet. My next company will get my good ideas." |
+| Poor Understanding of IT's Value | '- IT leadership reports to the CFO or COO, not to the CEO<br />- Backward-looking corporate boards perceive IT as a shared service.<br />- There is pressure to outsource potentially differentiating technologies.<br />- IT is marginalized as an operating expense.<br />- A strict hire-from-within policy means a dearth of new thinking or fresh perspectives. | "I've been trying to sell the CFO on investing in analytics. Then he tells me to bring system upgrade cost estimates to the next executive staff meeting. I guess that's all I need to know about how we're measured!" |
 
+### What Factors into IT Transformation?
 
+- IDENTIFY your challenges: WHY are you stuck?
+- CHOOSE your brand: WHO do you want to be?
+- PLAN your portfolio: WHAT should your priorities be and how do you determine them?
+- LEAD your team: HOW do you sustain operational excellence while driving innovations?
 
 ## 02 The IT Leader's Identity Crisis
 
