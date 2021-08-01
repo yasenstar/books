@@ -6,6 +6,8 @@ Author: Jill Dyche (2015)
 
 First borrow: July 2021
 
+[toc]
+
 # Foreward
 
 ..."enterprise IT" used to stand for a set of systems that transacted and recorded business operations -- what we call "systems of record." These were designed around departmental processes, organized around databases, enabled by online transaction processing, and understood through business intelligence reporting and analystics.
