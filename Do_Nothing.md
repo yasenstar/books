@@ -6,7 +6,7 @@ _How to Stop Overmanaging and Become a GREAT LEADER_
 
 Borrow: August 2021, Pointe-Claire Library
 
-![do nothing book cover](/home/yasen/GitHub/books/img/do_nothing_cover.jpg)
+![do nothing book cover](img/do_nothing_cover.jpg)
 
 [toc]
 
