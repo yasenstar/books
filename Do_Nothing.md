@@ -31,6 +31,31 @@ The KEY insight here is simple: you will be a more effective leader if, rather t
 
 As you move up in the world, people will look to you to think big thoughts and orchestrate the big issues; they will want you to use broad brush-strokes rather than focusing on details -- even if you are really good at being a detail person.
 
+A simple solution can allow you to success at doing less: figure out who among your team members is good at a particular job _and let them do it_ -- even if it's something that you can do well.
+
+"Don't let perfect interfere with good enough." --- "comparative advantage"
+
+... particularly important for leaders: your comparative advantage, as a leader, is _not_ to get involved in doing different jobs. Instead, you must focus on facilitating others' performance and orchestrating their actions so that they combine their efforts into the most effective final product.
+
+This is what great leaders do. ---
+
+- They don't work; the facilitate and orchestrate.
+- They think of great strategies and help other people implement them.
+- They spend their time on achieving the foresight to be able to see new developments as or just before they happen.
+- They take a broad, comprehensive view of their terrain (倾向) while they also notice some of the key details so they can confidently choose the best of many possible forks in the road.
+- They don't do anything -- except think, make key decisions, help people do their jobs better, and add a touch of organizational control to make sure the final recipes come out okay.
+
+__Leaders who are too busy working, doing a job, can't do these (above) things -- and their teams suffer.__
+
+Doing Nothing is not easy for people who like their work and are driven to succeed. It is also not easy for people whose ancestors had to work hard just to survive. But if you can get yourself to _Do Nothing_, you will soon find that your team members will grow as a TEAM, and you will grow as a LEADER. _You just have to get out of their way_.
+
+Here's what you can actually do: to be a truly effective leader, you should be a _facilitator_ and an _orchestrator_.
+
+- Rather than doing work that your team members can do, help them do their jobs better.
+- Facilitate their performance rather than interfering with it.
+- Then add a touch of orchestration, to make sure that Annie finishes her work before William does his so that everything will be ready at the right time.
+- When you facilitate and orchestrate will, your team members will work well, individually and collectively.
+
 
 
 # 2. Focus on Them
