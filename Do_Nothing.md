@@ -56,9 +56,19 @@ Here's what you can actually do: to be a truly effective leader, you should be a
 - Then add a touch of orchestration, to make sure that Annie finishes her work before William does his so that everything will be ready at the right time.
 - When you facilitate and orchestrate will, your team members will work well, individually and collectively.
 
+A leader's job is _not_ to do things. Instead, leaders do best when they help other people do as much as they can as well as they can. If each and every member of a team lives up to their maximum potential, the team and its leader will be as successful as they can possibly be.
 
+## What Will You Do While You Are Doing Nothing?
+
+If you succeed in Doing Nothing, how will you spend your time at work?
+
+- First of all, you will have time to plan for the future -- an unusual luxury.
+- Next, you can work to facilitate your team members' performance, and you can do that without really doing anything yourself.
+- As you facilitate, you should have high expectations for their performance: by expecting a lot from your people, you will generally get a lot. This is what researchers have called the Pygmalion Effect (皮格马利翁效应).
 
 # 2. Focus on Them
+
+... to empathize with someone in pain, whether form hunger or fatigue, it appears that you must be experiencing pain yourself -- you can't just imagine the feeling. ...people must also have _directly related experiences_ to truly feel empathy for another person.
 
 # 3. Start at the End
 
