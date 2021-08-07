@@ -70,7 +70,11 @@ If you succeed in Doing Nothing, how will you spend your time at work?
 
 ... to empathize with someone in pain, whether form hunger or fatigue, it appears that you must be experiencing pain yourself -- you can't just imagine the feeling. ...people must also have _directly related experiences_ to truly feel empathy for another person.
 
+__The Leadership Law__: Think of the reaction that you want first, then determine the actions you can take to maximize the chances that those reactions will actually happen.
+
 # 3. Start at the End
+
+Having clear expectations of one another makes it easier to adjust to a world that is rapidly changing. Thus, to be continuously effective, you must also be prepared to lead your team on all sorts of potentially unexpected jobs.
 
 # 4. Trust More
 
@@ -79,6 +83,16 @@ If you succeed in Doing Nothing, how will you spend your time at work?
 # 6. Bear Down Warmly
 
 # 7. Ignore Performance Goals
+
+As a leader, you can control the work process, but you can't control its outcomes.
+
+- _You can't control the wind, but you can adjust your sails. (Yiddish)_
+- _Pray to God, but row for shore. (Russian)_
+- _There is no bad weather, only bad judgment. (Kiwi)_
+- _It's better to light a candle than to curse the darkness. (與其詛咒黑暗,不如點燃蠟燭) (Chinese)_
+- _Trust in Allah, but tie your camel. (Arabic)_
+
+__Outcomes = f(Ability + a lot of other stuff)__
 
 # 8. De-emphasize Profits
 
