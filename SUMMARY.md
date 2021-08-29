@@ -27,9 +27,6 @@
     * [Hal](2001-a-space-odyssey_arthur-c-clarke/part-3_between-planets/ch16_hal.md)
   * [How to Remember Notes Line](2001-a-space-odyssey_arthur-c-clarke/20200830185655.md)
   * [Forward](2001-a-space-odyssey_arthur-c-clarke/00-forward.md)
-* [孙子兵法-Thirty-Six-Stratagems](sun-zi-bing-fa-thirtysixstratagems/README.md)
-  * [01-始计-Laying-Plans](sun-zi-bing-fa-thirtysixstratagems/01-shi-ji-layingplans/README.md)
-    * [孙子兵法 Sun Tzu On The Art of War](sun-zi-bing-fa-thirtysixstratagems/01-shi-ji-layingplans/ji-pian.md)
 * [Cloud\_Adoption\_Playbook](cloud_adoption_playbook.md)
 * [Do\_Nothing](do_nothing.md)
 * [The\_New\_IT](the_new_it.md)
@@ -39,11 +36,17 @@
 * [Frank\_Wilczek](frank_wilczek/README.md)
   * [Fundamentals](frank_wilczek/fundamentals.md)
 * [OUT THERE](out_there.md)
-* [管子-轻重戊](guan-zi-qing-zhong-wu/README.md)
-  * [管子-轻重戊](guan-zi-qing-zhong-wu/guan-zi-qing-zhong-wu.md)
 * [Beginning\_Game\_Programming](beginning_game_programming.md)
 * [SF](sf/README.md)
   * [银河帝国-基地](sf/yin-he-di-guo-ji-di.md)
 * [Black\_Hole\_War](black_hole_war.md)
 * [Management\_Strategies\_for\_the\_Cloud\_Revolution](management_strategies_for_the_cloud_revolution.md)
+
+## Chinese Wisdom
+
+* [孙子兵法-Thirty-Six-Stratagems](chinese-wisdom/sun-zi-bing-fa-thirtysixstratagems/README.md)
+  * [01-始计-Laying-Plans](chinese-wisdom/sun-zi-bing-fa-thirtysixstratagems/01-shi-ji-layingplans/README.md)
+    * [孙子兵法 Sun Tzu On The Art of War](chinese-wisdom/sun-zi-bing-fa-thirtysixstratagems/01-shi-ji-layingplans/ji-pian.md)
+* [管子-轻重戊](chinese-wisdom/guan-zi-qing-zhong-wu/README.md)
+  * [管子-轻重戊](chinese-wisdom/guan-zi-qing-zhong-wu/guan-zi-qing-zhong-wu.md)
 
