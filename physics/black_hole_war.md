@@ -6,7 +6,7 @@
 
 By Leonard Susskind \(2008\)
 
-![cover image](.gitbook/assets/The_Black_Hole_War_-_bookcover.jpg) ![author](.gitbook/assets/LeonardSusskindStanford2009.jpg)
+![cover image](../.gitbook/assets/The_Black_Hole_War_-_bookcover.jpg) ![author](../.gitbook/assets/LeonardSusskindStanford2009.jpg)
 
 _What is is that breathes fire into the equations and makes a universe for them to describe? -- Stephen Hawking_
 
@@ -14,7 +14,7 @@ _What is is that breathes fire into the equations and makes a universe for them 
 
 _There was so much to grok, so little to grok from. -- Robert A. Heinlein \(Stranger in a Strange Land\)_
 
-![Stranger in a Strange Land](.gitbook/assets/Stranger_in_a_Strange_Land-bookcover.jpeg)
+![Stranger in a Strange Land](../.gitbook/assets/Stranger_in_a_Strange_Land-bookcover.jpeg)
 
 The truth, of course, is that all conplex life-forms have built-in, instinctive physics concepts that have been hardwired into their nervous system by evolution. Without this preprogrammed physics software, survival would be impossible. Mutation and natural selection have made us all physicists, even animals. In humans the large size of the brain has allowed there instincts to evolve into concepts that we carry at the conscious level.
 
@@ -50,7 +50,7 @@ _History will be kind to me, for I intend to write it. -- Winston Churchill_
 
 ### 01. The First Shot
 
-![penrose diagram](.gitbook/assets/p22-penrose.jpeg)
+![penrose diagram](../.gitbook/assets/p22-penrose.jpeg)
 
 One the blackboard was a _Penrose Diagram_, a type of diagram representing a black hole. The horizon \(the edge of the black hole\) was drawn as a dashed line, and the singularity at the center of the black hole was an ominous-looking jagged line. Lines pointing inward through the horizon represented bits of information falling past the horizon into the singularity. There were no lines coming back out. According to Stephen, those bits were irretrievably \(无可挽回地\) lost. To make matters worse, Stephen had proved that black holes eventually evaporate and disappear, leaving no trace of what has fallen in.
 
