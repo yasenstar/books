@@ -19,7 +19,7 @@ Mapping the complext dynamics among the three greatest forces shaping our planet
 > The central fact of the age we live in is that every country, every market, every medium of communication, every natural resource is connected.  
 > -- Simon Anholt, The Good Country Party
 
-
+Turkey has been called the country where continents collide; now it is the country where continents connect.
 
 ### Chapter 02 New Maps for a New Worlds
 
