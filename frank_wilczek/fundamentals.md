@@ -7,9 +7,9 @@ Author: Frank Wilczek \(2021\)
 Also from Frank:
 
 _- A Beautiful Question_  
- _- The Lightness of Being_  
- _- Fantastic Realities_  
- _- Longing for the Harmonies_
+_- The Lightness of Being_  
+_- Fantastic Realities_  
+_- Longing for the Harmonies_
 
 \[toc\]
 

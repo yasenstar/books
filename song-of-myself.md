@@ -2,7 +2,7 @@
 
 BY WALT WHITMAN
 
-[https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version\#:~:text= Song of Myself %281892 version%29  1,it. I have no mockings or... More ](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version#:~:text=%20Song%20of%20Myself%20%281892%20version%29%20%201,it.%20I%20have%20no%20mockings%20or...%20More%20)
+[https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version\#:~:text= Song of Myself %281892 version%29 1,it. I have no mockings or... More ](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version#:~:text=%20Song%20of%20Myself%20%281892%20version%29%20%201,it.%20I%20have%20no%20mockings%20or...%20More%20)
 
 1 I celebrate myself, and sing myself, And what I assume you shall assume, For every atom belonging to me as good belongs to you.
 

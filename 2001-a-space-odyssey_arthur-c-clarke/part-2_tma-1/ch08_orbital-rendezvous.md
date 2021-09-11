@@ -14,12 +14,12 @@ The lounge had been redecorated since his last visit, and had acquired several n
 
 The picturesque booths were only a few yards from a barrier with two entrances labeled $WELCOME TO THE U.S. SECTION$ and $WELCOME TO THE SOVIET SECTION$. Beneath these were notices which read, in English, Russian, and Chinese, French, German, and Spanish:
 
- PLEASE HAVE READY YOUR:  
- Passport  
- Visa  
- Medical Certificate  
- Transportation Permit  
- Weight Declaration
+PLEASE HAVE READY YOUR:  
+Passport  
+Visa  
+Medical Certificate  
+Transportation Permit  
+Weight Declaration
 
 There was a rather pleasant symbolism about the fact that as soon as they had passed through the barriers, in either direction, passengers were free to mix again. The division was purely for administrative purposes.
 
