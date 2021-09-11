@@ -41,6 +41,7 @@
   * [银河帝国-基地](sf/yin-he-di-guo-ji-di.md)
 * [Black\_Hole\_War](black_hole_war.md)
 * [Management\_Strategies\_for\_the\_Cloud\_Revolution](management_strategies_for_the_cloud_revolution.md)
+* [Connectography](connectography.md)
 
 ## Chinese Wisdom
 
@@ -49,8 +50,4 @@
     * [孙子兵法 Sun Tzu On The Art of War](chinese-wisdom/sun-zi-bing-fa-thirtysixstratagems/01-shi-ji-layingplans/ji-pian.md)
 * [管子-轻重戊](chinese-wisdom/guan-zi-qing-zhong-wu/README.md)
   * [管子-轻重戊](chinese-wisdom/guan-zi-qing-zhong-wu/guan-zi-qing-zhong-wu.md)
-
----
-
-* [Connectography](connectography.md)
 
