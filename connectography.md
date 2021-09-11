@@ -8,17 +8,6 @@ The roadmap of this book follws several interconnected thrusts.
 
 
 
-```text
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
 
 
 ## Part One: CONNECTIVITY AS DESTINY
